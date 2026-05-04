@@ -1,5 +1,5 @@
-# Data-Visualisation-Portfolio
-# Mini Project Portfolio
+# Data Visualisation Portfolio
+
 
 A collection of five data-driven mini projects exploring cybersecurity, artificial intelligence, and human-centred analytics. Each project combines analytical techniques with structured data storytelling using tools such as Python, R, and Excel.
 
